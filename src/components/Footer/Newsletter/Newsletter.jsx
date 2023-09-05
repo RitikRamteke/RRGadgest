@@ -24,7 +24,8 @@ const Newsletter = () => {
                      <FaTwitter size ={14}/>
                 </div>
                 <div className="icon">
-                     <FaInstagram size ={14}/>
+                     
+                    <a <FaInstagram size ={14}/> href="https://www.instagram.com/thenameisritik47/"></a>
                 </div>
                 <div className="icon">
                      <FaLinkedinIn size ={14}/>
